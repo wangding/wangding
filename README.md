@@ -14,11 +14,17 @@
 
 ## 如何安装
 
+请在命令行窗口，运行下面的命令：
+```bash
 npm install wangding -g
+```
 
 ## 如何运行
 
+请在命令行窗口，运行下面的命令：
+```bash
 wangding
+```
 
 <!-- 参考链接 -->
 
@@ -28,5 +34,4 @@ wangding
 [node-url]: https://nodejs.org/en/download/
 [node-image]: https://img.shields.io/node/v/wangding.svg?style=flat-square
 
-[buildstat-url]: https://travis-ci.org/workshopper/wangding
-[buildstat-image]: https://img.shields.io/travis/workshopper/wangding.svg?style=flat-square
+[buildstat-url]: https://travis-ci.org/wangding/wangding.svg?branch=master
