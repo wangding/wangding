@@ -1,0 +1,20 @@
+{
+  "name": "wangding",
+  "version": "1.0.3",
+  "description": "王顶的第一个应用程序",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wangding"
+  ],
+  "author": "wangding",
+  "license": "MIT",
+  "bin": {
+    "wangding": "./bin/wangding"
+  },
+  "preferGlobal": true
+}
