@@ -1,6 +1,6 @@
 {
   "name": "wangding",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "王顶的第一个应用程序",
   "main": "app.js",
   "dependencies": {},
@@ -18,6 +18,9 @@
   "keywords": [
     "wangding"
   ],
+  "engines": {
+	    "node": ">=4.0.0"
+	},
   "author": "wangding",
   "license": "MIT",
   "bin": {

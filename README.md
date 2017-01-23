@@ -8,7 +8,7 @@
 
 ## 前提条件
 
-如果你使用 Windows 操作系统，请确保你在使用最新的 Node.js。
+如果你使用 Windows 操作系统，请确保你在使用最新的 NodeJS。
 
 * [**Node.js**](node-url) >=4.0.0 (>=5.1.0 for Windows)
 
@@ -20,7 +20,7 @@ npm install wangding -g
 
 wangding
 
-<! -- 参考链接 -->
+<!-- 参考链接 -->
 
 [npm-url]: https://npmjs.org/package/wangding
 [npm-image]: https://img.shields.io/npm/v/wangding.svg?style=flat-square
