@@ -1,13 +1,20 @@
 {
   "name": "wangding",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "王顶的第一个应用程序",
   "main": "app.js",
   "dependencies": {},
   "devDependencies": {},
+  "repository": {
+	    "type": "git",
+	    "url": "https://github.com/wangding/wangding"
+	},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bugs": {
+	    "url": "https://github.com/wangding/wangding/issues"
+	},
   "keywords": [
     "wangding"
   ],
