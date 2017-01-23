@@ -34,4 +34,5 @@ wangding
 [node-url]: https://nodejs.org/en/download/
 [node-image]: https://img.shields.io/node/v/wangding.svg?style=flat-square
 
-[buildstat-url]: https://travis-ci.org/wangding/wangding.svg?branch=master
+[buildstat-url]: https://travis-ci.org/wangding/wangding
+[buildstat-image]: https://img.shields.io/travis/wangding/wangding.svg?branch=master
