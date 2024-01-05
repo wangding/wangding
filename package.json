@@ -1,28 +1,25 @@
 {
   "name": "wangding",
-  "version": "1.0.5",
-  "description": "王顶的第一个应用程序",
-  "main": "app.js",
-  "dependencies": {},
-  "devDependencies": {},
+  "version": "1.0.8",
+  "description": "first nodejs app",
   "repository": {
-	    "type": "git",
-	    "url": "https://github.com/wangding/wangding"
-	},
+      "type": "git",
+      "url": "https://github.com/wangding/wangding"
+  },
   "scripts": {
     "test": "echo \"Everything is OK！\""
   },
   "bugs": {
-	    "url": "https://github.com/wangding/wangding/issues"
-	},
+      "url": "https://github.com/wangding/wangding/issues"
+  },
   "keywords": [
     "wangding"
   ],
-  "engines": {
-	    "node": ">=4.0.0"
-	},
   "author": "wangding",
   "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0"
+  },
   "bin": {
     "wangding": "./bin/wangding"
   },
