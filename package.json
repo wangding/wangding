@@ -1,16 +1,17 @@
 {
   "name": "wangding",
-  "version": "1.0.8",
+  "version": "1.0.9",
+  "type": "module",
   "description": "first nodejs app",
   "repository": {
-      "type": "git",
-      "url": "https://github.com/wangding/wangding"
+    "type": "git",
+    "url": "https://github.com/wangding/wangding"
   },
   "scripts": {
     "test": "echo \"Everything is OK！\""
   },
   "bugs": {
-      "url": "https://github.com/wangding/wangding/issues"
+    "url": "https://github.com/wangding/wangding/issues"
   },
   "keywords": [
     "wangding"
@@ -21,7 +22,11 @@
     "node": ">=16.0.0"
   },
   "bin": {
-    "wangding": "./bin/wangding"
+    "wangding": "./bin/wangding.mjs"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "figlet": "^1.7.0"
+  }
 }

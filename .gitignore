@@ -3,3 +3,4 @@
 
 # 忽略 webstorm 创建的文件
 .idea/
+node_modules/
